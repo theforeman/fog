@@ -51,7 +51,6 @@ module Fog
   end
 end
 
-require 'fog/bin/atmos'
 require 'fog/bin/aws'
 require 'fog/bin/bluebox'
 require 'fog/bin/cloudstack'
